@@ -1,2 +1,3 @@
 Hello, Git!
-Hello, world2222!
+
+Hello, this is a new hello content file.
